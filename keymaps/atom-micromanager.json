@@ -1,0 +1,12 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-n": "atom-micromanager:create-sibling-item",
+    "ctrl-alt-m": "atom-micromanager:create-child-item",
+    "ctrl-alt-0": "atom-micromanager:set-item-state-item",
+    "ctrl-alt-5": "atom-micromanager:set-item-state-outcome",
+    "ctrl-alt-6": "atom-micromanager:set-item-state-in-progress",
+    "ctrl-alt-7": "atom-micromanager:set-item-state-question",
+    "ctrl-alt-9": "atom-micromanager:set-item-state-done",
+    "ctrl-alt-8": "atom-micromanager:set-item-state-rejected"
+  }
+}

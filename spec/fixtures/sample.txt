@@ -1,0 +1,12 @@
+v new item
+  ? new child item
+
+- new item
+  - new child item
+    - new child item
+    v new item
+      x new child item
+      => new item
+        ? new outcome
+
+asdfasf

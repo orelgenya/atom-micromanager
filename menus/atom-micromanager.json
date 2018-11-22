@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-micromanager",
+        "command": "atom-micromanager:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-micromanager",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-micromanager:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
