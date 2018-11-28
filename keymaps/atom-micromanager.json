@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
+    "ctrl-alt-o": "atom-micromanager:toggle",
     "ctrl-alt-n": "atom-micromanager:create-sibling-item",
     "ctrl-alt-m": "atom-micromanager:create-child-item",
     "ctrl-alt-0": "atom-micromanager:set-item-state-item",

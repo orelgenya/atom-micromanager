@@ -1,0 +1,12 @@
+name: 'Micromanager'
+scopeName: 'micromanager'
+type: 'tree-sitter'
+parser: 'tree-sitter-micromanager'
+fileTypes: [
+  'mman'
+]
+scopes:
+  'item_tags': 'item_tags'
+  'item_tag': 'item_tag'
+  'item_start': 'item_start'
+  'item_text': 'item_text'
